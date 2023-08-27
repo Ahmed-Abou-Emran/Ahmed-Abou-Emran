@@ -1,4 +1,4 @@
-<h1 align="center">as-salam alaikum 👋, I'm Ahmed Ali</h1>
+<h1 align="center">As-salam alaikum 👋, I'm Ahmed Ali</h1>
 <img alt="Coder GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="center">A software engineer from Cairo, Egypt with a keen interest in web development</h3>
@@ -7,11 +7,9 @@
 
 <h2 align="center">About Me</h2>
 
-- 👨‍💻 Senior 2 - Computer Engineering and software systems at ASU-Engieering.
+- 👨‍💻 A Front-end React developer with a passion for creating beautiful and functional web applications.
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking  for part-time jobs and collaboration on **Open Source Projects**
 
 - 📫 How to reach me **AbouEmran99@gmail.com or [telegram](https://t.me/AbouEmran99)**
 
